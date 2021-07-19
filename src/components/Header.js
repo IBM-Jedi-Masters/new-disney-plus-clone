@@ -8,27 +8,27 @@ function Header() {
         <Logo src="/images/logo.svg" alt="Disney Plus" />
             <NavMenu>
                 <a>
-                    <img src="/images/home-icon.svg" />
+                    <img src="/images/home-icon.svg" alt="Disney Plus" />
                     <span>HOME</span>
                 </a>
                 <a>
-                    <img src="/images/search-icon.svg" />
+                    <img src="/images/search-icon.svg" alt="Disney Plus" />
                     <span>SEARCH</span>
                 </a>
                 <a>
-                    <img src="/images/watchlist-icon.svg" />
+                    <img src="/images/watchlist-icon.svg" alt="Watch List" />
                     <span>WATCHLIST</span>
                 </a>
                 <a>
-                    <img src="/images/original-icon.svg" />
+                    <img src="/images/original-icon.svg" alt="Originals" />
                     <span>ORIGINALS</span>
                 </a>
                 <a>
-                    <img src="/images/movie-icon.svg" />
+                    <img src="/images/movie-icon.svg" alt="Movies" />
                     <span>MOVIES</span>
                 </a>
                 <a>
-                    <img src="/images/series-icon.svg" />
+                    <img src="/images/series-icon.svg" alt="Series" />
                     <span>SERIES</span>
                 </a>
 
